@@ -1,6 +1,6 @@
 {
-  "name": "datx02-sample",
-  "description": "Sample module project for course DATX02",
+  "name": "dht-client",
+  "description": "DHT client",
   "version": "0.0.1",
   "license": "MIT",
   "main": "lib/index.js",
