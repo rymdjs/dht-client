@@ -1,5 +1,6 @@
 {
   "name": "dht-client",
+  "respoitory": "https://github.com/rymdjs/dht-client.git",
   "description": "DHT client",
   "version": "0.0.1",
   "license": "MIT",
